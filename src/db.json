@@ -1,0 +1,72 @@
+{
+    "Jogos": [{
+            "id": 1,
+            "adversario": "Bolivia",
+            "status": "Finalizado",
+            "casa": "Brasil",
+            "visitante": "Bolivia",
+            "resultado1": "3",
+            "resultado2": "0",
+            "img1": "brasil",
+            "img2": "bolivia"
+        },
+        {
+            "id": 2,
+            "adversario": "Venezuela",
+            "status": "Finalizado",
+            "casa": "Brasil",
+            "visitante": "Venezuela",
+            "resultado1": "0",
+            "resultado2": "0",
+            "img1": "brasil",
+            "img2": "venezuela"
+        },
+        {
+            "id": 3,
+            "adversario": "Peru",
+            "status": "Finalizado",
+            "casa": "Peru",
+            "visitante": "Brasil",
+            "resultado1": "0",
+            "resultado2": "5",
+            "img1": "peru",
+            "img2": "brasil"
+        }, {
+            "id": 4,
+            "adversario": "Paraguai",
+            "status": "Finalizado",
+            "casa": "Brasil",
+            "visitante": "Paraguai",
+            "resultado1": "0",
+            "resultado2": "0",
+            "resultadoP1": "4",
+            "resultadoP2": "3",
+            "img1": "brasil",
+            "img2": "paraguai"
+        }, {
+            "id": 5,
+            "adversario": "Argentina",
+            "status": "Finalizado",
+            "casa": "Brasil",
+            "visitante": "Argentina",
+            "resultado1": "2",
+            "resultado2": "0",
+            "resultadoP1": "",
+            "resultadoP2": "",
+            "img1": "brasil",
+            "img2": "argentina"
+        }, {
+            "id": 6,
+            "adversario": "Peru",
+            "status": "Finalizado",
+            "casa": "Brasil",
+            "visitante": "Peru",
+            "resultado1": "3",
+            "resultado2": "1",
+            "resultadoP1": "",
+            "resultadoP2": "",
+            "img1": "brasil",
+            "img2": "peru"
+        }
+    ]
+}
